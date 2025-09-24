@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    -<!--TEMA CLARO-->
+    -    <color name="Primaria_roxo_Light">#6C63FF</color>
+    -    <color name="variante_Roxo_Light">#5146CC</color>
+    -    <color name="secundario_rosa_Light">#FF6584</color>
+    -    <color name="background_light">#FFFFFF</color>
+    -    <color name="superficie_light">#F5F5F5</color>
+    -    <color name="primario_texto_light">#1A1A1A</color>
+    -    <color name="secundario_texto_light">#555555</color>
+    -    <color name="divisor_light">#DDDDDD</color>
+    -    <!--TEMA ESCURO-->
+    -    <color name="Primaria_roxo_Dark">#6C63FF</color>
+    -    <color name="variante_Roxo_Dark">#8E87FF</color>
+    -    <color name="secundario_rosa_Dark">#FF80A0</color>
+    -    <color name="background_Dark">#121212</color>
+    -    <color name="superficie_Dark">#1E1E1E</color>
+    -    <color name="primario_texto_Dark">#FFFFFF</color>
+    -    <color name="secundario_texto_Dark">#AAAAAA</color>
+    -    <color name="divisor_Dark">#DDDDDD</color>
+    +    <color name="primary_roxo">#7C4DFF</color>
+    +    <color name="primary_preto">#1E1E2E</color>
+    +    <color name="colorAccent">#FF4081</color>
+    +
+    +    <!-- Cores auxiliares -->
+    +    <color name="colorBackground">#121212</color>
+    +    <color name="colorSurface">#1E1E2E</color>
+    +    <color name="colorOnPrimary">#FFFFFF</color>
+    +    <color name="colorOnSecondary">#E0E0E0</color>
+    +    <color name="colorHighlight">#00E5FF</color>
+</resources>

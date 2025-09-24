@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DoReMix" parent="Theme.Material3.Dark">
+        <!-- Primárias -->
+        <item name="colorPrimary">@color/Primaria_roxo_Dark</item>
+        <item name="colorPrimaryVariant">@color/variante_Roxo_Dark</item>
+        <item name="colorOnPrimary">@color/primario_texto_Dark</item>
+
+        <!-- Secundária -->
+        <item name="colorSecondary">@color/secundario_rosa_Dark</item>
+        <item name="colorOnSecondary">@color/secundario_texto_Dark</item>
+
+        <!-- Fundo e superfície -->
+        <item name="android:colorBackground">@color/background_Dark</item>
+        <item name="colorSurface">@color/superficie_Dark</item>
+
+        <!-- Texto -->
+        <item name="android:textColorPrimary">@color/primario_texto_Dark</item>
+        <item name="android:textColorSecondary">@color/secundario_texto_Dark</item>
+
+        <!-- Extra -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">@color/variante_Roxo_Dark</item>
+    </style>
+</resources>

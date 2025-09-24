@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="instrumentos">
+        <item>@string/guitarra</item>
+        <item>@string/violao</item>
+        <item>@string/bateria</item>
+        <item>@string/baixo</item>
+        <item>@string/teclado</item>
+        <item>@string/canto</item>
+        <item>@string/outros</item>
+    </string-array>
+
+    <string-array name="musica_Titulo">
+        <item>For Whom the Bell Tolls</item>
+        <item>Paranoid</item>
+        <item>Blind</item>
+        <item>Walk</item>
+        <item>My Generation</item>
+        <item>Chop Suey!</item>
+        <item>What I`ve Done</item>
+        <item>Duality</item>
+        <item>Lonely Day</item>
+        <item>Mama, I`m Coming Home</item>
+    </string-array>
+
+    <string-array name="musica_Autor">
+        <item>Metallica</item>
+        <item>Black Sabbath</item>
+        <item>Korn</item>
+        <item>Pantera</item>
+        <item>Limp Bizkit</item>
+        <item>System of a Down</item>
+        <item>Linkin Park</item>
+        <item>Slipknot</item>
+        <item>System of a Down</item>
+        <item>Ozzy Osbourne</item>
+    </string-array>
+
+    <string-array name="musica_Tom">
+        <item>Em</item>
+        <item>E</item>
+        <item>D</item>
+        <item>D</item>
+        <item>E</item>
+        <item>C#m</item>
+        <item>Bm</item>
+        <item>C</item>
+        <item>Am</item>
+        <item>G</item>
+    </string-array>
+
+    <integer-array name="musica_Duracao">
+        <item>310</item> <!-- 5:10 -->
+        <item>170</item> <!-- 2:50 -->
+        <item>255</item> <!-- 4:15 -->
+        <item>320</item> <!-- 5:20 -->
+        <item>190</item> <!-- 3:10 -->
+        <item>210</item> <!-- 3:30 -->
+        <item>185</item> <!-- 3:05 -->
+        <item>240</item> <!-- 4:00 -->
+        <item>170</item> <!-- 2:50 -->
+        <item>260</item> <!-- 4:20 -->
+    </integer-array>
+
+</resources>
